@@ -1,0 +1,4 @@
+> I want to make a program with tkinter that can ask for "what scripture they would like".
+> As of August 21 I have made my information(script verse and chapter) into a dictionary and I can retrive as long as I out in the right keys.
+-to do
+  i need append new information and retrive information
